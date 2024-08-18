@@ -1,0 +1,13 @@
+.vscode/
+.vs/
+x86/
+x64/
+build/
+CMakeFiles/
+
+*.sln
+*.vcxproj
+*.vcxproj.user
+CMakeCache.txt
+Makefile
+cmake_install.cmake
